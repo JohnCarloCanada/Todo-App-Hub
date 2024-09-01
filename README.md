@@ -1,8 +1,16 @@
-# React + Vite
+# Todo Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Todo Hub By Front-End Mentor
 
-Currently, two official plugins are available:
+## Technologies Used in this project:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Tailwind
+- [FramerMotion](https://www.framer.com/motion/)
+
+## Links:
+
+- [Github](https://github.com/JohnCarloCanada/Todo-App-Hub)
+- [Netlify](https://todo-hubz.netlify.app/)
+
+All Resources that i used in this project is not mine and is under the fair use policy all credits should be given to the rightful owners.
